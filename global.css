@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-pridi: Pridi;
+    --font-rubik-glitch: "Rubik Glitch";
+  
+    /* Colors */
+    --color-white: #fff;
+  }
